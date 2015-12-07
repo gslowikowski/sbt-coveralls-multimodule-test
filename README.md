@@ -1,0 +1,1 @@
+SBT Coveralls Plugin testing with multi-module SBT project.
