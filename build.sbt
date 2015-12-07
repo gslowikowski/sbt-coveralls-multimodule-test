@@ -47,3 +47,5 @@ coverageHighlighting := {
 publishArtifact in Test := false
 
 parallelExecution in Test := false
+
+CoverallsKeys.coverallsToken := Some("jorpWtHho2Eoyt6Od9ETN3hyEeN9nZOhF")
